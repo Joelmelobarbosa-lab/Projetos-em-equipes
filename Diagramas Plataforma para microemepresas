@@ -1,0 +1,19 @@
+Diagramas:
+#
+
+Cadastro-
+``mermaid
+sequenceDiagram
+Actor user as Usuario
+participant p as plataforma
+participant bend as backend
+participant dados as banco de dados
+
+user->>p: Cadastrar uma empresa
+p->>bend: Demanda a confirmação de dados de empresas existente
+bend->>dados: Solicitar a verificação  de dados
+dados->>bend: Confirmação de dados não existentes
+bend->>p: Aprovacção de novos dados
+p->>user: Cadastro realizado com sucesso
+
+
