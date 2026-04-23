@@ -41,7 +41,7 @@ Para o projeto será efetuado as seguintes metodologia ágil:
 
 >![Static Badge](https://img.shields.io/badge/Mysql-FFB74D?style=flat&logo=mysql&logoColor=blue&logoSize=auto&color=FFB74D)
 
-**API:**
+⚙️**API:**
 >![Static Badge](https://img.shields.io/badge/PHP-B0B3D6?style=flat&logo=Php&logoColor=white&logoSize=auto&color=B0B3D6)
 
 ***
