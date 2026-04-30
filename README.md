@@ -53,6 +53,8 @@ Figma:
 
 https://www.figma.com/site/cAaLpDDzVVnwDMzIleBnWR/Pagina-da-Loja?node-id=0-1&p=f&t=zzLp9eq6hu864sln-0
 
+https://www.figma.com/design/8LXnelaVwPsWJ20fdDzQJB/Untitled?node-id=0-1&t=HkXyw90WrRvsFW0C-1
+
 #
 
 #
