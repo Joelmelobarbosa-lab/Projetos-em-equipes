@@ -60,6 +60,7 @@ Joel-
 https://www.figma.com/design/nTOO7Cr36n16Dwf6kmVBXq/PI--Figma?node-id=1-2&t=Qc9vV89d517VBy9M-0
 
 Isabelly-
+https://www.figma.com/design/RYIwgtAKJEnxWamsZAhAYw/Cadastro-e-Login---P1?node-id=0-1&t=3a9jcdACgCUnfoy4-1
 
 #
 
