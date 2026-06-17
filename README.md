@@ -23,6 +23,19 @@ Para o projeto será efetuado as seguintes metodologia ágil:
 
 # 
 
+💰 **Financiamento**
+O Projeto fica financiado por um total de: R$6.286,20 por/ano
+
+_Hospedagem_:
+R$1.583,40 por/ano, ou R$23,99 + 11,99 por mês.
+
+_Banco de dados_: 
+R$264,00 por/ano, ou R$22,00 por mês.
+
+_Armazenamento na nuvem (BD)_:
+R$4.438,80 por/ano, ou R$369,90 por mês.
+
+#
 
 🖥️ **Infraestrutura técnica:**  
 
