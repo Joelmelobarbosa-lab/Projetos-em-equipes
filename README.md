@@ -70,16 +70,24 @@ https://www.figma.com/design/RYIwgtAKJEnxWamsZAhAYw/Cadastro-e-Login---P1?node-i
   Os processos poderam demorar de 5 ou 6 meses no total, sem alteração ou incoveniencia durante o desenvolvimento.
 
   Desenvolviemento:
+  
   Login e o cadastro duram: 2 semanas
+  
   Sites de empresas: 7 semanas
+  
   -Banho & tosa: 2
+  
   -Panificadora da Alameda: 2 semanas
+  
   -Melina Foz-Psicoclinica: 3 semanas
   
   Filtros de pesquisa: 2 semanas
-  Sistema de avaliações de empresas: 2 semana
+  Sistema de avaliações de empresas: 2 semanas
+  
   Calendarios: 3 semanas
+  
   Adição de barra de pesquisa: 1 semana
+  
   Desenvolvimento do mapa e a localização de empresas e dispositivos: 3 semanas
   
     
