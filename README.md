@@ -75,7 +75,7 @@ Isabelly-
 https://www.figma.com/design/RYIwgtAKJEnxWamsZAhAYw/Cadastro-e-Login---P1?node-id=0-1&t=3a9jcdACgCUnfoy4-1
 
 #
-**Desenvolvimento dos processos**
+🕐**Desenvolvimento dos processos**
 
   Os processos poderam demorar de 3 meses no total, sem alteração ou incoveniencia durante o desenvolvimento.
 
